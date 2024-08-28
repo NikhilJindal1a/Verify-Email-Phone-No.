@@ -1,0 +1,100 @@
+first_name,last_name,company_name,address,city,county,state,zip,phone1,phone1_valid,phone,phone_valid,email,email_valid
+James,Butt,"Benton, John B Jr",6649 N Blue Gum St,New Orleans,Orleans,LA,70116,+91 9911005406,valid,504-845-1427,invalid,jbutt@gmail.com,valid
+Josephine,Darakjy,"Chanay, Jeffrey A Esq",4 B Blue Ridge Blvd,Brighton,Livingston,MI,48116,+91 9810591454,valid,810-374-9840,invalid,josephine_darakjy@darakjy.org,invalid
+Art,Venere,"Chemel, James L Cpa",8 W Cerritos Ave #54,Bridgeport,Gloucester,NJ,8014,+91 9886568785,valid,856-264-4130,invalid,art@venere.org,invalid
+Lenna,Paprocki,Feltz Printing Service,639 Main St,Anchorage,Anchorage,AK,99501,(+91)12047165000,invalid,907-921-2010,invalid,lpaprocki@hotmail.com,valid
+Donette,Foller,Printing Dimensions,34 Center St,Hamilton,Butler,OH,45011,(+1)8476123495,invalid,513-549-4561,invalid,donette.foller@cox.net,valid
+Simona,Morasca,"Chapman, Ross E Esq",3 Mcauley Dr,Ashland,Ashland,OH,44805,(+1)8887232545,invalid,419-800-6759,invalid,simona@morasca.com,invalid
+Mitsue,Tollner,Morlong Associates,7 Eads St,Chicago,Cook,IL,60632,+91 7456380863,valid,773-924-8565,invalid,mitsue_tollner@yahoo.com,valid
+Leota,Dilliard,Commercial Press,7 W Jackson Blvd,San Jose,Santa Clara,CA,95111,(+1) 8474638978,invalid,408-813-1105,invalid,leota@hotmail.com,valid
+Sage,Wieser,Truhlar And Truhlar Attys,5 Boston Ave #88,Sioux Falls,Minnehaha,SD,57105,+91 87263458764,valid,605-794-4895,invalid,sage_wieser@cox.net,valid
+Kris,Marrier,"King, Christopher A Esq",228 Runamuck Pl #2808,Baltimore,Baltimore City,MD,21224,(+1) 8654731655,invalid,410-804-4694,invalid,kris@gmail.com,valid
+Minna,Amigon,"Dorl, James J Esq",2371 Jerrold Ave,Kulpsville,Montgomery,PA,19443,+91 7634562456,valid,215-422-8694,invalid,minna_amigon@yahoo.com,valid
+Abel,Maclead,Rangoni Of Florence,37275 St  Rt 17m M,Middle Island,Suffolk,NY,11953,631-335-3414,invalid,631-677-3675,invalid,amaclead@gmail.com,valid
+Kiley,Caldarera,Feiner Bros,25 E 75th St #69,Los Angeles,Los Angeles,CA,90034,310-498-5651,invalid,310-254-3084,invalid,kiley.caldarera@aol.com,valid
+Graciela,Ruta,Buckley Miller & Wright,98 Connecticut Ave Nw,Chagrin Falls,Geauga,OH,44023,440-780-8425,invalid,440-579-7763,invalid,gruta@cox.net,valid
+Cammy,Albares,"Rousseaux, Michael Esq",56 E Morehead St,Laredo,Webb,TX,78045,956-537-6195,invalid,956-841-7216,invalid,calbares@gmail.com,valid
+Mattie,Poquette,Century Communications,73 State Road 434 E,Phoenix,Maricopa,AZ,85013,602-277-4385,invalid,602-953-6360,invalid,mattie@aol.com,valid
+Meaghan,Garufi,"Bolton, Wilbur Esq",69734 E Carrillo St,Mc Minnville,Warren,TN,37110,931-313-9635,invalid,931-235-7959,invalid,meaghan@hotmail.com,valid
+Gladys,Rim,T M Byxbee Company Pc,322 New Horizon Blvd,Milwaukee,Milwaukee,WI,53207,414-661-9598,invalid,414-377-2880,invalid,gladys.rim@rim.org,valid
+Yuki,Whobrey,Farmers Insurance Group,1 State Route 27,Taylor,Wayne,MI,48180,313-288-7937,invalid,313-341-4470,invalid,yuki_whobrey@aol.com,valid
+Fletcher,Flosi,Post Box Services Plus,394 Manchester Blvd,Rockford,Winnebago,IL,61109,815-828-2147,invalid,815-426-5657,invalid,fletcher.flosi@yahoo.com,valid
+Bette,Nicka,Sport En Art,6 S 33rd St,Aston,Delaware,PA,19014,610-545-3615,invalid,610-492-4643,invalid,bette_nicka@cox.net,valid
+Veronika,Inouye,C 4 Network Inc,6 Greenleaf Ave,San Jose,Santa Clara,CA,95111,408-540-1785,invalid,408-813-4592,invalid,vinouye@aol.com,valid
+Willard,Kolmetz,"Ingalls, Donald R Esq",618 W Yakima Ave,Irving,Dallas,TX,75062,972-303-9197,invalid,972-896-4882,invalid,willard@hotmail.com,valid
+Maryann,Royster,"Franklin, Peter L Esq",74 S Westgate St,Albany,Albany,NY,12204,518-966-7987,invalid,518-448-8982,invalid,mroyster@royster.com,valid
+Alisha,Slusarski,Wtlz Power 107 Fm,3273 State St,Middlesex,Middlesex,NJ,8846,732-658-3154,invalid,732-635-3453,invalid,alisha@slusarski.com,valid
+Allene,Iturbide,"Ledecky, David Esq",1 Central Ave,Stevens Point,Portage,WI,54481,715-662-6764,invalid,715-530-9863,invalid,allene_iturbide@cox.net,valid
+Chanel,Caudy,Professional Image Inc,86 Nw 66th St #8673,Shawnee,Johnson,KS,66218,913-388-2079,invalid,913-899-1103,invalid,chanel.caudy@caudy.org,invalid
+Ezekiel,Chui,"Sider, Donald C Esq",2 Cedar Ave #84,Easton,Talbot,MD,21601,410-669-1642,invalid,410-235-8738,invalid,ezekiel@chui.com,invalid
+Willow,Kusko,U Pull It,90991 Thorburn Ave,New York,New York,NY,10011,212-582-4976,invalid,212-934-5167,invalid,wkusko@yahoo.com,valid
+Bernardo,Figeroa,"Clark, Richard Cpa",386 9th Ave N,Conroe,Montgomery,TX,77301,936-336-3951,invalid,936-597-3614,invalid,bfigeroa@aol.com,valid
+Ammie,Corrio,"Moskowitz, Barry S",74874 Atlantic Ave,Columbus,Franklin,OH,43215,614-801-9788,invalid,614-648-3265,invalid,ammie@corrio.com,valid
+Francine,Vocelka,Cascade Realty Advisors Inc,366 South Dr,Las Cruces,Dona Ana,NM,88011,505-977-3911,invalid,505-335-5293,invalid,francine_vocelka@vocelka.com,valid
+Ernie,Stenseth,Knwz Newsradio,45 E Liberty St,Ridgefield Park,Bergen,NJ,7660,201-709-6245,invalid,201-387-9093,invalid,ernie_stenseth@aol.com,valid
+Albina,Glick,"Giampetro, Anthony D",4 Ralph Ct,Dunellen,Middlesex,NJ,8812,732-924-7882,invalid,732-782-6701,invalid,albina@glick.com,valid
+Alishia,Sergi,Milford Enterprises Inc,2742 Distribution Way,New York,New York,NY,10025,212-860-1579,invalid,212-753-2740,invalid,asergi@gmail.com,valid
+Solange,Shinko,"Mosocco, Ronald A",426 Wolf St,Metairie,Jefferson,LA,70002,504-979-9175,invalid,504-265-8174,invalid,solange@shinko.com,valid
+Jose,Stockham,Tri State Refueler Co,128 Bransten Rd,New York,New York,NY,10011,212-675-8570,invalid,212-569-4233,invalid,jose@yahoo.com,valid
+Rozella,Ostrosky,Parkway Company,17 Morena Blvd,Camarillo,Ventura,CA,93012,805-832-6163,invalid,805-609-1531,invalid,rozella.ostrosky@ostrosky.com,valid
+Valentine,Gillian,Fbs Business Finance,775 W 17th St,San Antonio,Bexar,TX,78204,210-812-9597,invalid,210-300-6244,invalid,valentine_gillian@gmail.com,valid
+Kati,Rulapaugh,Eder Assocs Consltng Engrs Pc,6980 Dorsett Rd,Abilene,Dickinson,KS,67410,785-463-7829,invalid,785-219-7724,invalid,kati.rulapaugh@hotmail.com,valid
+Youlanda,Schemmer,Tri M Tool Inc,2881 Lewis Rd,Prineville,Crook,OR,97754,541-548-8197,invalid,541-993-2611,invalid,youlanda@aol.com,valid
+Dyan,Oldroyd,International Eyelets Inc,7219 Woodfield Rd,Overland Park,Johnson,KS,66204,913-413-4604,invalid,913-645-8918,invalid,doldroyd@aol.com,valid
+Roxane,Campain,Rapid Trading Intl,1048 Main St,Fairbanks,Fairbanks North Star,AK,99708,907-231-4722,invalid,907-335-6568,invalid,roxane@hotmail.com,valid
+Lavera,Perin,Abc Enterprises Inc,678 3rd Ave,Miami,Miami-Dade,FL,33196,305-606-7291,invalid,305-995-2078,invalid,lperin@perin.org,valid
+Erick,Ferencz,Cindy Turner Associates,20 S Babcock St,Fairbanks,Fairbanks North Star,AK,99712,907-741-1044,invalid,907-227-6777,invalid,erick.ferencz@aol.com,valid
+Fatima,Saylors,"Stanton, James D Esq",2 Lighthouse Ave,Hopkins,Hennepin,MN,55343,952-768-2416,invalid,952-479-2375,invalid,fsaylors@saylors.org,valid
+Jina,Briddick,Grace Pastries Inc,38938 Park Blvd,Boston,Suffolk,MA,2128,617-399-5124,invalid,617-997-5771,invalid,jina_briddick@briddick.com,invalid
+Kanisha,Waycott,"Schroer, Gene E Esq",5 Tomahawk Dr,Los Angeles,Los Angeles,CA,90006,323-453-2780,invalid,323-315-7314,invalid,kanisha_waycott@yahoo.com,valid
+Emerson,Bowley,Knights Inn,762 S Main St,Madison,Dane,WI,53711,608-336-7444,invalid,608-658-7940,invalid,emerson.bowley@bowley.org,valid
+Blair,Malet,Bollinger Mach Shp & Shipyard,209 Decker Dr,Philadelphia,Philadelphia,PA,19132,215-907-9111,invalid,215-794-4519,invalid,bmalet@yahoo.com,valid
+Brock,Bolognia,Orinda News,4486 W O St #1,New York,New York,NY,10003,212-402-9216,invalid,212-617-5063,invalid,bbolognia@yahoo.com,valid
+Lorrie,Nestle,Ballard Spahr Andrews,39 S 7th St,Tullahoma,Coffee,TN,37388,931-875-6644,invalid,931-303-6041,invalid,lnestle@hotmail.com,valid
+Sabra,Uyetake,Lowy Limousine Service,98839 Hawthorne Blvd #6101,Columbia,Richland,SC,29201,803-925-5213,invalid,803-681-3678,invalid,sabra@uyetake.org,invalid
+Marjory,Mastella,Vicon Corporation,71 San Mateo Ave,Wayne,Delaware,PA,19087,610-814-5533,invalid,610-379-7125,invalid,mmastella@mastella.com,valid
+Karl,Klonowski,"Rossi, Michael M",76 Brooks St #9,Flemington,Hunterdon,NJ,8822,908-877-6135,invalid,908-470-4661,invalid,karl_klonowski@yahoo.com,valid
+Tonette,Wenner,Northwest Publishing,4545 Courthouse Rd,Westbury,Nassau,NY,11590,516-968-6051,invalid,516-333-4861,invalid,twenner@aol.com,valid
+Amber,Monarrez,Branford Wire & Mfg Co,14288 Foster Ave #4121,Jenkintown,Montgomery,PA,19046,215-934-8655,invalid,215-329-6386,invalid,amber_monarrez@monarrez.org,valid
+Shenika,Seewald,East Coast Marketing,4 Otis St,Van Nuys,Los Angeles,CA,91405,818-423-4007,invalid,818-749-8650,invalid,shenika@gmail.com,valid
+Delmy,Ahle,Wye Technologies Inc,65895 S 16th St,Providence,Providence,RI,2909,401-458-2547,invalid,401-559-8961,invalid,delmy.ahle@hotmail.com,valid
+Deeanna,Juhas,"Healy, George W Iv",14302 Pennsylvania Ave,Huntingdon Valley,Montgomery,PA,19006,215-211-9589,invalid,215-417-9563,invalid,deeanna_juhas@gmail.com,valid
+Blondell,Pugh,Alpenlite Inc,201 Hawk Ct,Providence,Providence,RI,2904,401-960-8259,invalid,401-300-8122,invalid,bpugh@aol.com,valid
+Jamal,Vanausdal,"Hubbard, Bruce Esq",53075 Sw 152nd Ter #615,Monroe Township,Middlesex,NJ,8831,732-234-1546,invalid,732-904-2931,invalid,jamal@vanausdal.org,invalid
+Cecily,Hollack,Arthur A Oliver & Son Inc,59 N Groesbeck Hwy,Austin,Travis,TX,78731,512-486-3817,invalid,512-861-3814,invalid,cecily@hollack.org,invalid
+Carmelina,Lindall,George Jessop Carter Jewelers,2664 Lewis Rd,Littleton,Douglas,CO,80126,303-724-7371,invalid,303-874-5160,invalid,carmelina_lindall@lindall.com,invalid
+Maurine,Yglesias,"Schultz, Thomas C Md",59 Shady Ln #53,Milwaukee,Milwaukee,WI,53214,414-748-1374,invalid,414-573-7719,invalid,maurine_yglesias@yglesias.com,valid
+Tawna,Buvens,H H H Enterprises Inc,3305 Nabell Ave #679,New York,New York,NY,10009,212-674-9610,invalid,212-462-9157,invalid,tawna@gmail.com,valid
+Penney,Weight,Hawaiian King Hotel,18 Fountain St,Anchorage,Anchorage,AK,99515,907-797-9628,invalid,907-873-2882,invalid,penney_weight@aol.com,valid
+Elly,Morocco,Killion Industries,7 W 32nd St,Erie,Erie,PA,16502,814-393-5571,invalid,814-420-3553,invalid,elly_morocco@gmail.com,valid
+Ilene,Eroman,"Robinson, William J Esq",2853 S Central Expy,Glen Burnie,Anne Arundel,MD,21061,410-914-9018,invalid,410-937-4543,invalid,ilene.eroman@hotmail.com,valid
+Vallie,Mondella,Private Properties,74 W College St,Boise,Ada,ID,83707,208-862-5339,invalid,208-737-8439,invalid,vmondella@mondella.com,valid
+Kallie,Blackwood,Rowley Schlimgen Inc,701 S Harrison Rd,San Francisco,San Francisco,CA,94104,415-315-2761,invalid,415-604-7609,invalid,kallie.blackwood@gmail.com,valid
+Johnetta,Abdallah,Forging Specialties,1088 Pinehurst St,Chapel Hill,Orange,NC,27514,919-225-9345,invalid,919-715-3791,invalid,johnetta_abdallah@aol.com,valid
+Bobbye,Rhym,"Smits, Patricia Garity",30 W 80th St #1995,San Carlos,San Mateo,CA,94070,650-528-5783,invalid,650-811-9032,invalid,brhym@rhym.com,invalid
+Micaela,Rhymes,H Lee Leonard Attorney At Law,20932 Hedley St,Concord,Contra Costa,CA,94520,925-647-3298,invalid,925-522-7798,invalid,micaela_rhymes@gmail.com,valid
+Tamar,Hoogland,A K Construction Co,2737 Pistorio Rd #9230,London,Madison,OH,43140,740-343-8575,invalid,740-526-5410,invalid,tamar@hotmail.com,valid
+Moon,Parlato,"Ambelang, Jessica M Md",74989 Brandon St,Wellsville,Allegany,NY,14895,585-866-8313,invalid,585-498-4278,invalid,moon@yahoo.com,valid
+Laurel,Reitler,Q A Service,6 Kains Ave,Baltimore,Baltimore City,MD,21215,410-520-4832,invalid,410-957-6903,invalid,laurel_reitler@reitler.com,valid
+Delisa,Crupi,Wood & Whitacre Contractors,47565 W Grand Ave,Newark,Essex,NJ,7105,973-354-2040,invalid,973-847-9611,invalid,delisa.crupi@crupi.com,valid
+Viva,Toelkes,Mark Iv Press Ltd,4284 Dorigo Ln,Chicago,Cook,IL,60647,773-446-5569,invalid,773-352-3437,invalid,viva.toelkes@gmail.com,valid
+Elza,Lipke,Museum Of Science & Industry,6794 Lake Dr E,Newark,Essex,NJ,7104,973-927-3447,invalid,973-796-3667,invalid,elza@yahoo.com,valid
+Devorah,Chickering,Garrison Ind,31 Douglas Blvd #950,Clovis,Curry,NM,88101,505-975-8559,invalid,505-950-1763,invalid,devorah@hotmail.com,valid
+Timothy,Mulqueen,Saronix Nymph Products,44 W 4th St,Staten Island,Richmond,NY,10309,718-332-6527,invalid,718-654-7063,invalid,timothy_mulqueen@mulqueen.org,valid
+Arlette,Honeywell,Smc Inc,11279 Loytan St,Jacksonville,Duval,FL,32254,904-775-4480,invalid,904-514-9918,invalid,ahoneywell@honeywell.com,valid
+Dominque,Dickerson,E A I Electronic Assocs Inc,69 Marquette Ave,Hayward,Alameda,CA,94545,510-993-3758,invalid,510-901-7640,invalid,dominque.dickerson@dickerson.org,valid
+Lettie,Isenhower,"Conte, Christopher A Esq",70 W Main St,Beachwood,Cuyahoga,OH,44122,216-657-7668,invalid,216-733-8494,invalid,lettie_isenhower@yahoo.com,valid
+Myra,Munns,Anker Law Office,461 Prospect Pl #316,Euless,Tarrant,TX,76040,817-914-7518,invalid,817-451-3518,invalid,mmunns@cox.net,valid
+Stephaine,Barfield,Beutelschies & Company,47154 Whipple Ave Nw,Gardena,Los Angeles,CA,90247,310-774-7643,invalid,310-968-1219,invalid,stephaine@barfield.com,invalid
+Lai,Gato,"Fligg, Kenneth I Jr",37 Alabama Ave,Evanston,Cook,IL,60201,847-728-7286,invalid,847-957-4614,invalid,lai.gato@gato.org,valid
+Stephen,Emigh,"Sharp, J Daniel Esq",3777 E Richmond St #900,Akron,Summit,OH,44302,330-537-5358,invalid,330-700-2312,invalid,stephen_emigh@hotmail.com,valid
+Tyra,Shields,"Assink, Anne H Esq",3 Fort Worth Ave,Philadelphia,Philadelphia,PA,19106,215-255-1641,invalid,215-228-8264,invalid,tshields@gmail.com,valid
+Tammara,Wardrip,Jewel My Shop Inc,4800 Black Horse Pike,Burlingame,San Mateo,CA,94010,650-803-1936,invalid,650-216-5075,invalid,twardrip@cox.net,valid
+Cory,Gibes,Chinese Translation Resources,83649 W Belmont Ave,San Gabriel,Los Angeles,CA,91776,626-572-1096,invalid,626-696-2777,invalid,cory.gibes@gmail.com,valid
+Danica,Bruschke,"Stevens, Charles T",840 15th Ave,Waco,McLennan,TX,76708,254-782-8569,invalid,254-205-1422,invalid,danica_bruschke@gmail.com,valid
+Wilda,Giguere,"Mclaughlin, Luther W Cpa",1747 Calle Amanecer #2,Anchorage,Anchorage,AK,99501,907-870-5536,invalid,907-914-9482,invalid,wilda@cox.net,valid
+Elvera,Benimadho,Tree Musketeers,99385 Charity St #840,San Jose,Santa Clara,CA,95110,408-703-8505,invalid,408-440-8447,invalid,elvera.benimadho@cox.net,valid
+Carma,Vanheusen,Springfield Div Oh Edison Co,68556 Central Hwy,San Leandro,Alameda,CA,94577,510-503-7169,invalid,510-452-4835,invalid,carma@cox.net,valid
+Malinda,Hochard,Logan Memorial Hospital,55 Riverside Ave,Indianapolis,Marion,IN,46202,317-722-5066,invalid,317-472-2412,invalid,malinda.hochard@yahoo.com,valid
+Natalie,Fern,"Kelly, Charles G Esq",7140 University Ave,Rock Springs,Sweetwater,WY,82901,307-704-8713,invalid,307-279-3793,invalid,natalie.fern@hotmail.com,valid
+Lisha,Centini,Industrial Paper Shredders Inc,64 5th Ave #1153,Mc Lean,Fairfax,VA,22102,703-235-3937,invalid,703-475-7568,invalid,lisha@centini.org,valid
